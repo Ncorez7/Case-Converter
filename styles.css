@@ -1,0 +1,46 @@
+
+body{
+    background-color: lightgrey;
+    max-width: 600 px;
+}
+
+textarea {
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+   margin-bottom: 30px
+}
+
+#upper-case {
+    background-color: orangered;
+    font-weight: bold;
+    margin: auto;
+    /*text-transform: uppercase;*/
+}
+
+
+#lower-case {
+    background-color: orangered;
+    font-weight: bold;
+    margin: auto;}
+
+#proper-case {
+    background-color: orangered;
+    font-weight: bold;
+    margin: auto;}
+
+#sentence-case {
+    background-color: orangered;
+    font-weight: bold;
+    margin: auto;}
+
+#save-text-file {
+    background-color: orangered;
+    font-weight: bold;
+    margin: auto;}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
